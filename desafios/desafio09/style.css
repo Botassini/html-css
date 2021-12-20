@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+.box {
+    width: 200px;
+    display: flexbox;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+}
